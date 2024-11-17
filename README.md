@@ -3,6 +3,6 @@
 # 怎么使用
 下载Release中的xxPortable.zip，将解压后的所有文件复制到数字记忆文件夹内；或者下载Sourcecode自行编译。
 # 技术栈
-采用C#+Winform+AntdUI开发
+基于.Net 8框架，采用C#+Winform+AntdUI开发
 # 想接着做？
 很简单，只需要fork该项目即可
