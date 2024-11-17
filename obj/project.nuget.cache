@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4Kx2vbMxUY=",
+  "success": true,
+  "projectFilePath": "D:\\Code\\C#\\photoReader\\photoReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\concat\\.nuget\\packages\\antdui\\1.7.4\\antdui.1.7.4.nupkg.sha512",
+    "C:\\Users\\concat\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.34\\microsoft.windows.sdk.net.ref.10.0.17763.34.nupkg.sha512"
+  ],
+  "logs": []
+}

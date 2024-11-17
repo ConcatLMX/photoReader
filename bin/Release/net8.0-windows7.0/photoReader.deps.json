@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "photoReader/1.0.0": {
+        "dependencies": {
+          "AntdUI": "1.7.4"
+        },
+        "runtime": {
+          "photoReader.dll": {}
+        }
+      },
+      "AntdUI/1.7.4": {
+        "runtime": {
+          "lib/net8.0-windows7.0/AntdUI.dll": {
+            "assemblyVersion": "1.7.4.0",
+            "fileVersion": "1.7.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "photoReader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AntdUI/1.7.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nB9FjWtzRGG8dShPZQ6ntaGmU9Hclz9ZOifTrp1z17moFQn2VhEm0JFwPmY87MM2wm9V0LZGjB/E2Td7iMaOEA==",
+      "path": "antdui/1.7.4",
+      "hashPath": "antdui.1.7.4.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+E:\photoReaderDemoPortable\photoReader.exe
+E:\photoReaderDemoPortable\photoReader.dll
+E:\photoReaderDemoPortable\photoReader.deps.json
+E:\photoReaderDemoPortable\photoReader.runtimeconfig.json
+E:\photoReaderDemoPortable\photoReader.pdb
+E:\photoReaderDemoPortable\Microsoft.Windows.SDK.NET.dll
+E:\photoReaderDemoPortable\WinRT.Runtime.dll
+E:\photoReaderDemoPortable\AntdUI.dll

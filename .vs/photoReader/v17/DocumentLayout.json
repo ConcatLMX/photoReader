@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C#\\photoReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\dateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\dateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\dateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\dateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\picforms\\picform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\picforms\\picform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\photoreader.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:photoreader.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\picforms\\picform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\picforms\\picform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\picforms\\picform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\picforms\\picform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\dateform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\dateform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\setform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\setform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|D:\\Code\\C#\\photoReader\\form\\picforms\\picform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\picforms\\picform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\otherform\\statisticsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\otherform\\statisticsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\picforms\\picform1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\picforms\\picform1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\otherform\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\otherform\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|D:\\Code\\C#\\photoReader\\form\\picforms\\picform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\picforms\\picform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\picforms\\picform2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\picforms\\picform2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|D:\\Code\\C#\\photoReader\\form\\setform\\cplcheckform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\setform\\cplcheckform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\setform\\cplcheckform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\setform\\cplcheckform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\setform\\cplcheckform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\setform\\cplcheckform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\class\\autosizeformclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:class\\autosizeformclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|D:\\Code\\C#\\photoReader\\form\\picforms\\picform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\picforms\\picform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|D:\\Code\\C#\\photoReader\\form\\picforms\\picform2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\picforms\\picform2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\photoreader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:photoreader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|d:\\code\\c#\\photoreader\\form\\dateform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E678B1B6-70A4-4A40-B05B-BD35FFF28BE5}|photoReader.csproj|solutionrelative:form\\dateform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mainwindow.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Mainwindow.cs",
+              "RelativeDocumentMoniker": "Mainwindow.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Mainwindow.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Mainwindow.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:57:35.641Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PicForm1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm1.cs",
+              "RelativeDocumentMoniker": "Form\\PicForms\\PicForm1.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form\\PicForms\\PicForm1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:47:43.489Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\DateForm.cs",
+              "RelativeDocumentMoniker": "Form\\DateForm.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\DateForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form\\DateForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:27:14.395Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateForm.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\DateForm.cs",
+              "RelativeDocumentMoniker": "Form\\DateForm.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\DateForm.cs",
+              "RelativeToolTip": "Form\\DateForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:29:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PicForm1.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm1.cs",
+              "RelativeDocumentMoniker": "Form\\PicForms\\PicForm1.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm1.cs",
+              "RelativeToolTip": "Form\\PicForms\\PicForm1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:58:45.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "photoReader",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\photoReader.csproj",
+              "RelativeDocumentMoniker": "photoReader.csproj",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\photoReader.csproj",
+              "RelativeToolTip": "photoReader.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T13:07:06.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PicForm3.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm3.cs",
+              "RelativeDocumentMoniker": "Form\\PicForms\\PicForm3.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm3.cs",
+              "RelativeToolTip": "Form\\PicForms\\PicForm3.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:01:17.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mainwindow.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Mainwindow.cs",
+              "RelativeDocumentMoniker": "Mainwindow.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Mainwindow.cs",
+              "RelativeToolTip": "Mainwindow.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwEQAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:43:47.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PicForm2.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm2.cs",
+              "RelativeDocumentMoniker": "Form\\PicForms\\PicForm2.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm2.cs",
+              "RelativeToolTip": "Form\\PicForms\\PicForm2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:44:31.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SetForm.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\SetForm.Designer.cs",
+              "RelativeDocumentMoniker": "Form\\SetForm.Designer.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\SetForm.Designer.cs",
+              "RelativeToolTip": "Form\\SetForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:53:36.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatisticsForm.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\OtherForm\\StatisticsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Form\\OtherForm\\StatisticsForm.Designer.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\OtherForm\\StatisticsForm.Designer.cs",
+              "RelativeToolTip": "Form\\OtherForm\\StatisticsForm.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:51:35.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PicForm1.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm1.Designer.cs",
+              "RelativeDocumentMoniker": "Form\\PicForms\\PicForm1.Designer.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm1.Designer.cs",
+              "RelativeToolTip": "Form\\PicForms\\PicForm1.Designer.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAewEkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:44:52.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatisticsForm.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\OtherForm\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "Form\\OtherForm\\StatisticsForm.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\OtherForm\\StatisticsForm.cs",
+              "RelativeToolTip": "Form\\OtherForm\\StatisticsForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:53:18.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PicForm2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm2.cs",
+              "RelativeDocumentMoniker": "Form\\PicForms\\PicForm2.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form\\PicForms\\PicForm2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:02:04.779Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PicForm2.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm2.Designer.cs",
+              "RelativeDocumentMoniker": "Form\\PicForms\\PicForm2.Designer.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm2.Designer.cs",
+              "RelativeToolTip": "Form\\PicForms\\PicForm2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:03:10.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SetForm.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\SetForm.cs",
+              "RelativeDocumentMoniker": "Form\\SetForm.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\SetForm.cs [Design]",
+              "RelativeToolTip": "Form\\SetForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:30:16.8Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CplCheckForm.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\SetForm\\CplCheckForm.cs",
+              "RelativeDocumentMoniker": "Form\\SetForm\\CplCheckForm.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\SetForm\\CplCheckForm.cs",
+              "RelativeToolTip": "Form\\SetForm\\CplCheckForm.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswCUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:13:08.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CplCheckForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\SetForm\\CplCheckForm.cs",
+              "RelativeDocumentMoniker": "Form\\SetForm\\CplCheckForm.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\SetForm\\CplCheckForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form\\SetForm\\CplCheckForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:14:04.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CplCheckForm.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\SetForm\\CplCheckForm.Designer.cs",
+              "RelativeDocumentMoniker": "Form\\SetForm\\CplCheckForm.Designer.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\SetForm\\CplCheckForm.Designer.cs",
+              "RelativeToolTip": "Form\\SetForm\\CplCheckForm.Designer.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:12:29.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AutoSizeFormClass.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Class\\AutoSizeFormClass.cs",
+              "RelativeDocumentMoniker": "Class\\AutoSizeFormClass.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Class\\AutoSizeFormClass.cs",
+              "RelativeToolTip": "Class\\AutoSizeFormClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:16:04.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PicForm2.resx",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm2.resx",
+              "RelativeDocumentMoniker": "Form\\PicForms\\PicForm2.resx",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm2.resx",
+              "RelativeToolTip": "Form\\PicForms\\PicForm2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-16T19:28:18.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PicForm3.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm3.cs",
+              "RelativeDocumentMoniker": "Form\\PicForms\\PicForm3.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\PicForms\\PicForm3.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form\\PicForms\\PicForm3.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:46:51.236Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Mainwindow.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Mainwindow.Designer.cs",
+              "RelativeDocumentMoniker": "Mainwindow.Designer.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Mainwindow.Designer.cs",
+              "RelativeToolTip": "Mainwindow.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:33:35.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "photoReader.csproj",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\photoReader.csproj",
+              "RelativeDocumentMoniker": "photoReader.csproj",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\photoReader.csproj",
+              "RelativeToolTip": "photoReader.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T08:22:29.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DateForm.resx",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\DateForm.resx",
+              "RelativeDocumentMoniker": "Form\\DateForm.resx",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\DateForm.resx",
+              "RelativeToolTip": "Form\\DateForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-16T14:53:47.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ba2c1c66-6588-405d-8c0d-e32175592f17",
+        "Display": 0,
+        "X": 321,
+        "Y": 150,
+        "Width": 1086,
+        "Height": 833,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DateForm.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\photoReader\\Form\\DateForm.Designer.cs",
+              "RelativeDocumentMoniker": "Form\\DateForm.Designer.cs",
+              "ToolTip": "D:\\Code\\C#\\photoReader\\Form\\DateForm.Designer.cs",
+              "RelativeToolTip": "Form\\DateForm.Designer.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAYwKgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:24:30.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
