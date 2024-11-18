@@ -1,0 +1,6 @@
+D:\Code\Release\photoReaderPortable\photoReader.exe
+D:\Code\Release\photoReaderPortable\photoReader.dll
+D:\Code\Release\photoReaderPortable\photoReader.deps.json
+D:\Code\Release\photoReaderPortable\photoReader.runtimeconfig.json
+D:\Code\Release\photoReaderPortable\photoReader.pdb
+D:\Code\Release\photoReaderPortable\AntdUI.dll
