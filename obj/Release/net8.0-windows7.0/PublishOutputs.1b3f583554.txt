@@ -1,6 +1,0 @@
-E:\test\photoReader.exe
-E:\test\photoReader.dll
-E:\test\photoReader.deps.json
-E:\test\photoReader.runtimeconfig.json
-E:\test\photoReader.pdb
-E:\test\AntdUI.dll
