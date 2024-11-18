@@ -22,7 +22,7 @@
     <Compile Update="Form\SetForm\CplCheckForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Mainwindow.cs">
+    <Compile Update="Form\Mainwindow.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Form\SetForm.cs">

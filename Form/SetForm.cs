@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using AntdUI;
-using photoReader.Class;
 using photoReader.Form; 
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
@@ -27,6 +26,12 @@ namespace photoReader
         {
             Form.SetForm.CplCheckForm form = new Form.SetForm.CplCheckForm();
             form.ShowDialog();
+        }
+
+        private void slider1_ValueChanged(object sender, IntEventArgs e)
+        {
+            float value = e.Value;
+            window.Opacity = value / 100; 
         }
     }
 }
